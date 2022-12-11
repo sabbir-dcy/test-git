@@ -20,4 +20,7 @@ function devs() {
     console.log('hey')
     console.log('hey')
     console.log('hey')
+    console.log('hey')
+    console.log('hey')
+    console.log('hey')
 }

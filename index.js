@@ -7,3 +7,7 @@ greet()
 function pro() {
     
 }
+
+function another() {
+    
+}
